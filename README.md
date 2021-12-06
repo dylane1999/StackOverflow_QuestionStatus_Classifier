@@ -1,5 +1,10 @@
 # Stack Overflow Question Status Classification
 
+## This project demonstaring binary and multiclass classifaction on stackOverflow.com data
+It involves using finetuned BERT models in order to classify question status into open/closed status and to attempt to prescribe some info as to why that quesation may have been closed with the multiclass BERT model. 
+
+You can read more in the project report provided. 
+
 #### In order to run the models it is recommened that you use google colab in order to avoid having to overwork your machine and to take advatage of gpu training 
 
 ### Steps to reproduce results (colab)
